@@ -5,6 +5,7 @@
 </p>
 <h2>2. Các thành phần kiến trúc trong vuex</h2>
 <h3>Sơ đồ kiến trúc</h3>
+<img src="so-do-kien-truc.png" />
 
 <h3>State</h3>
 <p>State là nơi lưu trữ data trong từng component</p>
